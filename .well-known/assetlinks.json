@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ddarkzi.jjakdefense",
+      "sha256_cert_fingerprints": [
+        "76:C8:68:5E:A2:49:17:52:84:3B:6D:87:6C:B2:4A:74:1F:33:DF:37:C9:1D:BC:49:EB:3D:B7:EF:C8:DA:38:C9"
+      ]
+    }
+  }
+]
